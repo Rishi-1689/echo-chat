@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 .venv/
-uv.lock
+
 
 # C extensions
 *.so
