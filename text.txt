@@ -1,0 +1,5 @@
+1. create the project
+2. create the public repo
+3. add the project in repo
+4. deploy the project in streamlit with the public repo
+5. add readme 
